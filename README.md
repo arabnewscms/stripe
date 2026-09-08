@@ -11,7 +11,7 @@ query checkout session status.
 You can install the package via Composer:
 
 ```bash
-composer require bajjour/stripe
+composer require phpanonymous/stripe
 ```
 
 ## Configuration
